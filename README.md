@@ -96,6 +96,15 @@ Data uploaded every 15 seconds:
 
 ---
 
+## 📡 Live Cloud Dashboard
+
+You can view real-time sensor data here:
+
+🔗 ThingSpeak Channel:  
+https://thingspeak.mathworks.com/channels/3221991
+
+---
+
 ## 📂 Repository Structure
 
 ```
