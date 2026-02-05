@@ -32,7 +32,7 @@ Sensors → ESP32 → Alert Logic (Traffic Light + Buzzer) → LCD Display → T
 ### 🔧 Internal Wiring
 
 <p align="center">
-  <img src="Docs/wiring.jpeg" width="400"/>
+  <img src="images/wiring.jpeg" width="400"/>
 </p>
 
 Main Components:
@@ -66,7 +66,7 @@ Main Components:
 ### Font Panel
 
 <p align="center">
-  <img src="Docs/enclosure_1.jpeg" width="400"/>
+  <img src="images/enclosure_1.jpeg" width="400"/>
 </p>
 
 ---
